@@ -1,5 +1,5 @@
 
-![TandemCodeWeb](docs/assets/images/tarjetalogo.jpeg)
+![TandemCodeWeb](docs/assets/images/tarjetalogo.svg)
 
 # Script-Tease Group page. Awesome-profile-Cards.
 
