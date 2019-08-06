@@ -1,3 +1,6 @@
+
+![TandemCodeWeb](docs/assets/images/tarjetalogo.jpeg)
+
 # Script-Tease Group page. Awesome-profile-Cards.
 
 ## Introducción.
